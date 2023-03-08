@@ -14,7 +14,7 @@ OpenAi 账号管理地址：https://openai.com/api
 账号余额消费完也可以长期在ChatGPT机器人地址：https://chat.openai.com 使用，该网站免费且不消耗额度     
 大部分人需要用到的其实就是这个ChatGPT机器人，不需要调用API，零学习成本。
 # 官网登录地址：
-https://chat.openai.com
+https://chat.openai.com   
 https://beta.openai.com/playground
 
 # 如何修改密码？
