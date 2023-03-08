@@ -29,7 +29,8 @@ https://beta.openai.com/playground
 https://www.fakabang.com/details/C0373AE0
 
 有问题可加QQ: 3595885756联系
-![image](https://user-images.githubusercontent.com/37654647/223637329-f3067587-3098-4792-a1f2-799523d11d92.png)
+
+
 
 
 
