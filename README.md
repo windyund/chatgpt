@@ -15,7 +15,11 @@ OpenAi 账号管理地址：https://openai.com/api
 大部分人需要用到的其实就是这个ChatGPT机器人，不需要调用API，零学习成本。
 # 官网登录地址：
 https://chat.openai.com   
-https://beta.openai.com/playground
+https://platform.openai.com/playground    
+
+多种场景、多模型切换   
+<img width="1424" alt="image" src="https://user-images.githubusercontent.com/37654647/223651668-98b916ef-d2b0-4ded-962d-7dbb3a69aae4.png">   
+
 
 # 如何修改密码？
 登录我提供给你的邮箱账号
