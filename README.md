@@ -7,13 +7,11 @@ ChatGPT独享账号，免注册，直接使用（注册需要国外手机号验�
 - 1.隐私安全有保障。
 - 2.使用官网chat的时候，不会泄露隐私，因为只有你自己用，花小钱得安心！
 - 3.共享账号容易被封，太多人使用，乱七八糟。
-独享账号和QQ号类似，只要OpenAI不倒闭你就能一直使用。
-购买的账号 内含18美金
-使用计费说明 按回答内容计费
-$0.0200/1000 tokens
-1个token是一个英文单词，一个汉字2个token
-OpenAi 账号管理地址：https://openai.com/api
-账号余额消费完也可以长期在ChatGPT机器人地址：https://chat.openai.com 使用，该网站免费且不消耗额度
+独享账号和QQ号类似，只要OpenAI不倒闭你就能一直使用。   
+购买的账号 内含18美金 使用计费说明 按回答内容计费    
+$0.0200/1000 tokens，1个token是一个英文单词，一个汉字2个token
+OpenAi 账号管理地址：https://openai.com/api    
+账号余额消费完也可以长期在ChatGPT机器人地址：https://chat.openai.com 使用，该网站免费且不消耗额度     
 大部分人需要用到的其实就是这个ChatGPT机器人，不需要调用API，零学习成本。
 # 官网登录地址：
 https://chat.openai.com
