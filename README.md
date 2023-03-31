@@ -13,6 +13,7 @@ $0.0200/1000 tokens，1个token是一个英文单词，一个汉字2个token
 OpenAi 账号管理地址：https://openai.com/api    
 账号余额消费完也可以长期在ChatGPT机器人地址：https://chat.openai.com 使用，该网站免费且不消耗额度     
 大部分人需要用到的其实就是这个ChatGPT机器人，不需要调用API，零学习成本。
+
 # 官网登录地址：
 https://chat.openai.com   
 https://platform.openai.com/playground    
