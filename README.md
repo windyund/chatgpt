@@ -1,4 +1,6 @@
 # chatgpt
+# 官网大面积封号，暂无账号了，请勿下单了
+
 ChatGPT独享账号，免注册，直接使用（注册需要国外手机号验证码），账号带$18美金，可修改密码 
 - 可在官网页面体验
 - 开发者可接入api key 调用
@@ -29,7 +31,7 @@ https://platform.openai.com/playground
 
 # 购买地址
 访问以下链接，18.8一个，下单自动发货，给出账号密码。
-https://www.fakabang.com/details/C0373AE0
+
 
 
 若担心骗子，可联系我某🐟交易，诚信可靠
