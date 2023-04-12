@@ -1,9 +1,9 @@
 # chatgpt
-#通知，有新账号了、gpt3.5,gpt 4.0(plus)、 new bing账号都有
+# 通知，有新账号了、gpt3.5,gpt 4.0(plus)、 new bing账号都有
 
 下单链接：[点击我](http://vip.coding3min.com?from=1096)
 
-#前段时间,OpenAi官网大面积封号，之前在我这购买找我的，都给了补偿，诚信可靠哈
+# 前段时间,OpenAi官网大面积封号，之前在我这购买找我的，都给了补偿，诚信可靠哈
 
 ChatGPT独享账号，免注册，直接使用（注册需要国外手机号验证码），可修改密码 
 - 可在官网页面体验
@@ -33,8 +33,8 @@ https://platform.openai.com/playground
 收到邮件后 重新设置密码
 
 # 购买地址
-访问以下链接，下单自动发货，给出账号密码。
-[点击我](http://vip.coding3min.com?from=1096)
+访问以下链接 [点击我](http://vip.coding3min.com?from=1096) 下单自动发货，给出账号密码。
+
 
 有问题可加QQ: 3595885756
 
