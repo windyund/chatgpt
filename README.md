@@ -1,6 +1,9 @@
 # chatgpt
 # 通知，有新账号了、gpt3.5、gpt 4.0(plus)、 new bing账号都有
 
+gpt3.5 5元一个
+gpt4  115.5元一个
+new bing 2元一个
 下单链接：[点击我](http://vip.coding3min.com?from=1096)
 
 # 前段时间,OpenAi官网大面积封号，之前在我这购买找我的，都给了补偿，诚信可靠哈
