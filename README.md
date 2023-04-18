@@ -5,7 +5,14 @@
 下单链接：[点击我](https://gpt.vip.coding3min.com)
 
 # 前段时间,OpenAi官网大面积封号，之前在我这购买找我的，都给了补偿，诚信可靠哈
-**注：** 不要选择亚洲节点，也不要频繁切换节点，很可能被封号
+**注：** 
+ - 不要选择亚洲节点，也不要频繁切换节点，很可能被封号
+ - 代理开全局模式
+ - 浏览器无痕浏览
+
+# 免费试用共享账号
+若想体验chatgpt，可加QQ联系我免费获取，因账号是共享的，随时可能被封，不保证随时都有账号哈，请体谅，最好自己购买一个独享账号！
+
 
 ChatGPT独享账号，免注册，直接使用（注册需要国外手机号验证码），可修改密码 
 - 可在官网页面体验
@@ -28,7 +35,8 @@ https://platform.openai.com/playground
 多种场景、多模型切换   
 <img width="1424" alt="image" src="https://user-images.githubusercontent.com/37654647/223651668-98b916ef-d2b0-4ded-962d-7dbb3a69aae4.png">   
 
-#常见问题总结
+# 常见问题总结
+
 [使用文档](https://www-jiker-com.feishu.cn/docx/D1pzd26RloK7imxbFt5chRd6nsz)
 
 # 如何修改密码？
