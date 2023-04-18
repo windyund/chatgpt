@@ -28,6 +28,8 @@ https://platform.openai.com/playground
 多种场景、多模型切换   
 <img width="1424" alt="image" src="https://user-images.githubusercontent.com/37654647/223651668-98b916ef-d2b0-4ded-962d-7dbb3a69aae4.png">   
 
+#常见问题总结
+[使用文档](https://www-jiker-com.feishu.cn/docx/D1pzd26RloK7imxbFt5chRd6nsz)
 
 # 如何修改密码？
 登录我提供给你的邮箱账号
