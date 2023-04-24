@@ -47,9 +47,9 @@ https://platform.openai.com/playground
 # 购买地址
 访问以下链接 [点击我](https://gpt.vip.coding3min.com) 下单自动发货，给出账号密码。
 
-
-
 有问题可加QQ: 3595885756
+
+
 ![](https://user-images.githubusercontent.com/37654647/223638487-b4e7b3a3-b519-4f48-ac93-4d11fb027bfc.png)
 
 
