@@ -49,13 +49,7 @@ https://platform.openai.com/playground
 
 
 
-
-<img width="500" height="960" alt="图片" src="https://user-images.githubusercontent.com/37654647/233907473-9c252a3c-c95b-4922-9177-437d733e0884.png">
-
-
-
-
-有问题可加QQ: 3595885756 或扫码
+有问题可加QQ: 3595885756
 ![](https://user-images.githubusercontent.com/37654647/223638487-b4e7b3a3-b519-4f48-ac93-4d11fb027bfc.png)
 
 
