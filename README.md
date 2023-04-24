@@ -41,8 +41,8 @@ https://platform.openai.com/playground
 
 # 如何修改密码？
 登录我提供给你的邮箱账号
-然后 去https://openai.com/login 找回密码
-收到邮件后 重新设置密码
+然后去https://openai.com/login 找回密码
+收到邮件验证后，重新设置密码
 
 # 购买地址
 访问以下链接 [点击我](https://gpt.vip.coding3min.com) 下单自动发货，给出账号密码。
