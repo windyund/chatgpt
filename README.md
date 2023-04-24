@@ -50,12 +50,13 @@ https://platform.openai.com/playground
 
 
 
-<img width="1108" alt="图片" src="https://user-images.githubusercontent.com/37654647/233907135-7508f234-d2bc-4985-952a-49121efc381a.png">
+<img width="960" alt="图片" src="https://user-images.githubusercontent.com/37654647/233907135-7508f234-d2bc-4985-952a-49121efc381a.png">
+
+
 
 
 
 有问题可加QQ: 3595885756
-
 
 
 
