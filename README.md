@@ -48,6 +48,12 @@ https://platform.openai.com/playground
 访问以下链接 [点击我](https://gpt.vip.coding3min.com) 下单自动发货，给出账号密码。
 
 
+
+
+<img width="1108" alt="图片" src="https://user-images.githubusercontent.com/37654647/233907135-7508f234-d2bc-4985-952a-49121efc381a.png">
+
+
+
 有问题可加QQ: 3595885756
 
 
