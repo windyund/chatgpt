@@ -1,9 +1,5 @@
-大纲：
-- 1.bito
-- 2.github copilot
-- 3.接入gpt api
 
-基于GPT-4的神仙插件，亲测好用
+# 基于GPT-4的神仙插件，亲测好用
 
 # 一、Bito
 ## 简介
