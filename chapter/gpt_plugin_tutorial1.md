@@ -66,7 +66,7 @@ Bito AI使编写代码、理解语法、编写测试用例、解释代码、评�
 ![](../images/quick.png)
 ## 二、解释mysql的原子性
 ![](../images/mysql.png)
-## 三、询问天气,非技术问题不回答  :joy:
+## 三、询问天气,非技术问题不回答  
 ![](../images/weather.png)
 
 # 四、官网地址
