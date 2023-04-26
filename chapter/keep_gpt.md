@@ -69,6 +69,7 @@
 
 了解更多信息，可关注官网[KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/)
 
-<hr>
+
 
 [获取ChatGPT账号](https://github.com/windyund/chatgpt)
+<hr>
