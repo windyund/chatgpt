@@ -74,5 +74,7 @@ Bito AI使编写代码、理解语法、编写测试用例、解释代码、评�
 
 <hr>
 
-各类AI账号体验 <br>
+
+[获取ChatGPT账号](https://github.com/windyund/chatgpt) <br>
+
 ![](../images/im.png)
