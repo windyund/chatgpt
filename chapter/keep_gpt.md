@@ -25,7 +25,7 @@
    ![](../images/keepgpt/tamper1.png)
   2.添加到浏览器扩展  <br>
    ![](../images/keepgpt/add_chrome.png)
-  3.安装KeepChatGpt脚本,浏览器直接访问以下链接 <br>
+  3.安装KeepChatGPT脚本,浏览器直接访问以下链接 <br>
 
   [KeepChatGPT](https://raw.githubusercontent.com/xcanwin/KeepChatGPT/main/KeepChatGPT.user.js)
    ![](../images/keepgpt/install_keep.png)
@@ -38,14 +38,14 @@
   ![](../images/keepgpt/fire2.png)
   ![](../images/keepgpt/fire3.png)
   ![](../images/keepgpt/fire4.png)
-   2.安装KeepChatGpt脚本,浏览器直接访问以下链接  <br>
+   2.安装KeepChatGPT脚本,浏览器直接访问以下链接  <br>
   [KeepChatGPT](https://raw.githubusercontent.com/xcanwin/KeepChatGPT/main/KeepChatGPT.user.js)
    ### 3.Edge浏览器安装
   1.安装插件
   ![](../images/keepgpt/edge1.png)
   ![](../images/keepgpt/edge2.png)
   ![](../images/keepgpt/edge3.png) 
-  2.安装KeepChatGpt脚本,浏览器直接访问以下链接  <br>
+  2.安装KeepChatGPT脚本,浏览器直接访问以下链接  <br>
     [KeepChatGPT](https://raw.githubusercontent.com/xcanwin/KeepChatGPT/main/KeepChatGPT.user.js)
   3.查看脚本生效 浏览器输入：  <br>
     ```extension://iikmkjmpaadaobahmlepeloendndfphd/options.html#nav=dashboard
