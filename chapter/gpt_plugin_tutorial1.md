@@ -1,5 +1,7 @@
 
-# 基于GPT-4的神仙插件，亲测好用
+# 基于GPT-4的神仙插件，无需魔法,目前免费
+
+
 
 # 一、Bito
 ## 简介
@@ -42,7 +44,7 @@ Bito AI使编写代码、理解语法、编写测试用例、解释代码、评�
 
 # 三、使用步骤
  以下以IDEA示例：
- - 1.安装插件,重启IDE后，插件生效，在右侧可见bito图标，如下所示：
+ - 1.安装插件,重启IDE后，插件生效，在右侧可见bito图标，如下所示：<br>
    ![](../images/右侧tab.png)
  - 2.注册登录：点击Bito图标,如果首次使用，点击Sign up注册，否则Sign-in登录
    ![](../images/login.png)
@@ -64,10 +66,13 @@ Bito AI使编写代码、理解语法、编写测试用例、解释代码、评�
 ![](../images/quick.png)
 ## 二、解释mysql的原子性
 ![](../images/mysql.png)
-## 三、询问天气,非技术问题不回答  :joy:
+## 三、询问天气,非技术问题不回答  
 ![](../images/weather.png)
 
 # 四、官网地址
 [官网地址](https://docs.bito.ai/)
 
+<hr>
 
+各类AI账号体验 <br>
+![](../images/im.png)
