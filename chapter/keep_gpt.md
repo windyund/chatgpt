@@ -1,3 +1,4 @@
+# KeepChatGPT插件-提效神器，解决ChatGPT报错！
 
 # 一、错误提示
 最近⼏天，相信不少人在使用OpenAI的ChatGPT时都发现一个问题，就是官⽹报错越来越频繁了。
