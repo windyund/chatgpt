@@ -1,6 +1,7 @@
 # chatgpt
 # 通知，有新账号了、gpt3.5、gpt 4.0(plus)、 new bing账号都有
 
+网站访问密码：000
 
 下单链接：[点击我](https://gpt.vip.coding3min.com)
 
@@ -45,7 +46,7 @@ https://platform.openai.com/playground
 收到邮件验证后，重新设置密码
 
 # 购买地址
-访问以下链接 [点击我](https://gpt.vip.coding3min.com) 下单自动发货，给出账号密码。
+访问以下链接 [点击我，访问密码：000](https://gpt.vip.coding3min.com) 下单自动发货，给出账号密码。
 
 有问题可加QQ: 3595885756
 
