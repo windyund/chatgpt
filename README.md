@@ -1,7 +1,7 @@
 # chatgpt
 # 通知，有新账号了、gpt3.5、gpt 4.0(plus)、 new bing账号都有
 
-**网站访问密码：000**
+<font color=red>最近网站添加了访问密码方可访问，默认密码：000</font>
 
 下单链接：[点击我](https://gpt.vip.coding3min.com)
 
