@@ -22,4 +22,7 @@
      ![](../images/unlock_gpt4_limit/2.png)
 ## 3.刷新ChatGPT对话页面使用
 
+<hr>
+
+[如你需体验，获取ChatGPT账号](https://github.com/windyund/chatgpt)
   
