@@ -1,5 +1,5 @@
 # chatgpt
-# 通知: gpt3.5、gpt 4.0(plus)、 120美金gpt api、poe、new bing账号、美区apple id都有
+# 通知: gpt3.5、gpt 4.0(plus)、 GPT-4 API、 120美金GPT-3.5 API、poe、new bing账号、美区apple id都有
 
 
 下单链接：[点击我](https://gpt.vip.coding3min.com)
